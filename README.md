@@ -9,7 +9,8 @@
 
 > _"Some people lift weights, I lift bugs from code."_ 🐞
 
-I'm currently in my **3rd year of BCA** and a passionate **full-stack web developer** who gets more excited about a green terminal than green tea. I specialize in building **scalable MERN stack apps**, and I’m currently diving deep into **Next.js** and **Django**.
+I'm currently in my **3rd year of BCA** and a passionate **full-stack web developer** who gets more excited about a green terminal than green tea. I specialize in building **scalable MERN stack apps**, and I’m currently diving deep into ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) and ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django).
+
 
 Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):  
 📁 [**Portfolio Website**](https://portfolio-six-psi-26.vercel.app/)
@@ -27,18 +28,6 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 - 🔐 Interested in microservices & cybersecurity
 
 ---
-
-## 🚀 Projects
-
-| Project | Description | Live Link |
-|--------|-------------|-----------|
-| **AthenaAI** | Gemini-powered chatbot that supports image + text input and memory! | [AthenaAI](https://athena-ai-hljx.vercel.app/dashboard) |
-| **BiteBox** | Multi-vendor food app with real-time order tracking & PayPal support | [BiteBox](https://bite-box-three.vercel.app/) |
-| **E-Commerce Site** | Full-featured shopping platform with auth, product & cart mgmt | [E-Commerce](https://e-commerce-psi-inky-93.vercel.app/auth/login/) |
-| **Blogging Web App** | Share your thoughts with full CRUD post support | [Blog](https://blog-theta-three-48.vercel.app/home) |
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🧑‍💻 Languages & Frameworks
@@ -50,24 +39,56 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
 
-### 🗃️ Database & Tools
+---
+
+### ⚙️ Backend Architecture & Messaging
+![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat-square&logo=docker)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io)
+![Inngest](https://img.shields.io/badge/-Inngest-black?style=flat-square&logo=vercel)
+![Gemini API](https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=google)
+
+---
+
+### 🗃️ Databases & Dev Tools
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 
-### 🎨 UI Libraries
+---
+
+### 🎨 UI Libraries & Styling
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-![DaisyUI](https://img.shields.io/badge/-DaisyUI-10B981?style=flat-square&logo=tailwind-css)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-white?style=flat-square&logo=tailwind-css)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui)
 
-### 🔧 Tools & Deployment
+---
+
+### 📦 State Management & Data Fetching
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query)
+![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios)
+![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform)
+
+---
+
+### 🚀 Deployment & Dev Tools
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor)
-![Inngest](https://img.shields.io/badge/-Inngest-black?style=flat-square&logo=vercel)
-![Gemini API](https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=google)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## 🚀 Projects
+
+| Project | Description | Live Link |
+|--------|-------------|-----------|
+| **AthenaAI** | Gemini-powered chatbot that supports image + text input and memory! | [AthenaAI](https://athena-ai-hljx.vercel.app/dashboard) |
+| **BiteBox** | Multi-vendor food app with real-time order tracking & PayPal support | [BiteBox](https://bite-box-three.vercel.app/) |
+| **E-Commerce Site** | Full-featured shopping platform with auth, product & cart mgmt | [E-Commerce](https://e-commerce-psi-inky-93.vercel.app/auth/login/) |
+| **Blogging Web App** | Share your thoughts with full CRUD post support | [Blog](https://blog-theta-three-48.vercel.app/home) |
 
 ---
 
