@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Naveed Afraz 👋
 
-<!--
-**NaveedAfraz/NaveedAfraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Web Developer specializing in the **MERN stack**.  
+I love building full-stack apps and experimenting with new tech.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🛒 [E-commerce Platform](https://e-commerce-psi-inky-93.vercel.app/)
+- 📝 [Notes App](https://your-notes-link.com)
+- 🧠 CollabAI (WIP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+## 📊 GitHub Stats
+![Naveed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveedafraz&show_icons=true&theme=radical)
+
+---
+
+_Thanks for visiting my profile!_
