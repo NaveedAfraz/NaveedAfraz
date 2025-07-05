@@ -23,63 +23,51 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 - 🧮 State Management: Powered by **Redux**
 - 🔍 Data fetching? I trust **TanStack Query** like coffee in exams
 - 🎯 Currently learning: **Next.js**, **Django**, and **AI tools**
-- 🧪 Building Gemini-powered apps with image + text understanding
-- 🔐 Interested in microservices & cybersecurity
-
+  
 ---
 ## 🛠️ Tech Stack
 
-### 🧑‍💻 Languages & Frameworks
+### 🖥️ Frontend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-white?style=flat-square&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-white?style=flat-square&logo=tailwind-css)
+![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui)
+
+### 🛠️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-
----
-
-### ⚙️ Backend Architecture & Messaging
 ![Microservices](https://img.shields.io/badge/-Microservices-000000?style=flat-square&logo=docker)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq)
 ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq)
 ![Inngest](https://img.shields.io/badge/-Inngest-black?style=flat-square&logo=vercel)
 ![Gemini API](https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=google)
 
----
-
-### 🗃️ Databases & Dev Tools
+### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 
----
-
-### 🎨 UI Libraries & Styling
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-white?style=flat-square&logo=tailwind-css)
-![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui)
-
----
-
-### 📦 State Management & Data Fetching
+### 📦 State & Data Handling
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)
 ![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=flat-square&logo=react-query)
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform)
 
----
-
-### 🚀 Deployment & Dev Tools
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
-![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor)
+### 🧰 Tools & DevOps
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
+---
 ## 🚀 Projects
 
 | Project | Description | Live Link |
