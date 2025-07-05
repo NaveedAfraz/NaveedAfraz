@@ -11,7 +11,6 @@
 
 I'm currently in my **3rd year of BCA** and a passionate **full-stack web developer** who gets more excited about a green terminal than green tea. I specialize in building **scalable MERN stack apps**, and I’m currently diving deep into ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) and ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django).
 
-
 Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):  
 📁 [**Portfolio Website**](https://portfolio-six-psi-26.vercel.app/)
 
@@ -91,20 +90,20 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 | **Blogging Web App** | Share your thoughts with full CRUD post support | [Blog](https://blog-theta-three-48.vercel.app/home) |
 
 ---
+### 🔥 GitHub Contributions
 
+<p align="center">
+  <img src="https://github.com/Naveed-Afraz/Naveed-Afraz/blob/main/contribution-graph.png" alt="GitHub Contributions" />
+</p>
+
+_Over 1000+ contributions in the last year and counting..._
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveedafraz&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveedafraz&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naveedafraz&theme=tokyonight&margin-w=15&margin-h=15"/>
 </p>
 
 ---
@@ -120,9 +119,8 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 ## 📬 Get in Touch
 
 - Portfolio → [https://portfolio-six-psi-26.vercel.app](https://portfolio-six-psi-26.vercel.app)
-- LinkedIn → [Add your LinkedIn link]
-- Twitter → [Add your Twitter link]
-- Email → [Add your email if you want]
+- LinkedIn →  https://www.linkedin.com/in/naveed-afraz-977a46310/
+- Email → naveedafraz2003@gmail.com
 
 ---
 
