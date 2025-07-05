@@ -1,6 +1,6 @@
 <!-- Funny Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=I'm+just+a+guy+who+codes...+like+seriously!;Eat();+Sleep();+Code();+Repeat();;Full-stack+MERN+%7C+Django+%7C+Next.js+dev+on+mission" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=I'm+just+a+guy+who+codes...+like+seriously!;Eat();+Sleep();+Code();+Repeat();Full-stack+MERN+%7C+%7C+Next.js+dev+on+mission" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 - 💻 Full-Stack Developer (MERN | Django | SQL)
 - 🔄 Real-time: I’ve integrated **Socket.IO** into projects for real-time communication
 - 🧮 State Management: Powered by **Redux**
-- 🔍 Data fetching? I trust **TanStack Query** like coffee in exams
+- 🔍 Data fetching? I trust **TanStack Query** like coffee before exams
 - 🎯 Currently learning: **Next.js**, **Django**, and **AI tools**
   
 ---
