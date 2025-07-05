@@ -80,9 +80,7 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 ---
 ### 🔥 GitHub Contributions
 
-<p align="center">
-  <img src="https://github.com/Naveed-Afraz/Naveed-Afraz/blob/main/contribution-graph.png" alt="GitHub Contributions" />
-</p>
+![Naveed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveedAfraz&theme=github-dark&hide_border=true)
 
 _Over 1000+ contributions in the last year and counting..._
 
