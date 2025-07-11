@@ -88,8 +88,8 @@ _Over 1000+ contributions in the last year and counting..._
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveedafraz&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=naveedafraz&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveedafraz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=naveedafraz&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
