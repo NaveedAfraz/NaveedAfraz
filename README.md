@@ -59,13 +59,15 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios)
 ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat-square&logo=reacthookform)
 
-### 🧰 Tools & DevOps
+### 🧰 Tools & DevOps 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=flat-square&logo=capacitor)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+
 
 ---
 ## 🚀 Projects
