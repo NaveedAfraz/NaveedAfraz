@@ -80,16 +80,9 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 
 - **Ongoing Internship Project**  
   Currently working with a startup team on a **production-grade web platform**.  
-  - Tech: **React, Node.js, MySQL, Docker, RabbitMQ, Redis**  
+  - Tech: **React, Django + PostgreSQL, Docker, Redis**  
   - Responsibilities: **frontend development, API integration, and database modeling**  
   - Emphasis on **scalability, real-time features, and clean UI/UX**   
-
-- **Internship (Ongoing)**  
-  Currently working on a **startup project** as a full-stack developer.  
-  - Building microservices with **Django + PostgreSQL**  
-  - Implementing **real-time communication** with Socket.IO  
-  - Using **Redis** for caching and **Docker** for containerization  
-
 ---
 ## 🚀 Projects
 
