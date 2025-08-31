@@ -15,7 +15,20 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 📁 [**Portfolio Website**](https://portfolio-six-psi-26.vercel.app/)
 
 ---
+## 💼 Experience  
 
+- **Freelance Projects (x3)**  
+  Delivered **end-to-end solutions** for clients, building scalable web apps using the **MERN stack** and **SQL**.  
+  - One project deployed on a **custom domain** → [QuwwaHealth](https://quwwahealth.com)  
+  - Focused on **responsive UI** with **TailwindCSS** + **shadcn/ui**  
+  - Implemented **secure authentication**, **dynamic dashboards**, and smooth **deployments (Vercel / Render)**  
+
+- **Ongoing Internship Project**  
+  Currently working with a startup team on a **production-grade web platform**.  
+  - Tech: **React, Django + PostgreSQL, Docker, Redis**  
+  - Responsibilities: **frontend development, API integration, and database modeling**  
+  - Emphasis on **scalability, real-time features, and clean UI/UX**   
+---
 ## 🧠 About Me
 
 - 💻 Full-Stack Developer (MERN | Django | SQL)
@@ -70,20 +83,7 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ---
-## 💼 Experience  
-
-- **Freelance Projects (x3)**  
-  Delivered **end-to-end solutions** for clients, building scalable web apps using the **MERN stack** and **SQL**.  
-  - One project deployed on a **custom domain** → [QuwwaHealth](https://quwwahealth.com)  
-  - Focused on **responsive UI** with **TailwindCSS** + **shadcn/ui**  
-  - Implemented **secure authentication**, **dynamic dashboards**, and smooth **deployments (Vercel / Render)**  
-
-- **Ongoing Internship Project**  
-  Currently working with a startup team on a **production-grade web platform**.  
-  - Tech: **React, Django + PostgreSQL, Docker, Redis**  
-  - Responsibilities: **frontend development, API integration, and database modeling**  
-  - Emphasis on **scalability, real-time features, and clean UI/UX**   
----
+ 
 ## 🚀 Projects
 
 | Project | Description | Live Link |
