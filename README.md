@@ -69,6 +69,18 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
+---
+## 💼 Experience
+
+- **Freelance Projects (x3)**  
+  Delivered end-to-end solutions for clients, building scalable web apps with **MERN stack** and **SQL**.  
+  Focused on responsive UI, authentication, and deployment with **Vercel/Render**.  
+
+- **Internship (Ongoing)**  
+  Currently working on a **startup project** as a full-stack developer.  
+  - Building microservices with **Node.js + PostgreSQL**  
+  - Implementing **real-time communication** with Socket.IO  
+  - Using **Redis** for caching and **Docker** for containerization  
 
 ---
 ## 🚀 Projects
