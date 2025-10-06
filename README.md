@@ -7,7 +7,7 @@
 
 ## 👋 Hey there, I'm Naveed Afraz
 
-> _"Some people lift weights, I lift bugs from code."_ 🐞
+> _"Some people lift weights, others lift bugs from code , I lift both "_ 🐞
 
 I'm currently in my **3rd year of BCA** and a passionate **full-stack web developer** who gets more excited about a green terminal than green tea. I specialize in building **scalable MERN stack apps**, and I’m currently diving deep into ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) and ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django).
 
