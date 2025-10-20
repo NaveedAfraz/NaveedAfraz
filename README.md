@@ -7,22 +7,24 @@
 
 ## 👋 Hey there, I'm Naveed Afraz
 
-> _"Some people lift weights, others lift bugs from code , I lift both "_ 🐞
+> *"Some people lift weights, others lift bugs from code — I lift both."* 🐞
 
-I'm currently in my **3rd year of BCA** and a passionate **full-stack web developer** who gets more excited about a green terminal than green tea. I specialize in building **scalable MERN stack apps**, and I’m currently diving deep into ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) and ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django).
+I'm currently in my **3rd year of BCA** and an **experienced full-stack web developer** (MERN | Next.js) — and an **aspiring AI/ML guy** who gets more excited about a green terminal than green tea. I specialize in building **scalable MERN stack apps**, and I’m currently diving deep into ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js) and ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django).
 
-Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):  
+Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 📁 [**Portfolio Website**](https://portfolio-six-psi-26.vercel.app/)
 
 ---
-## 💼 Experience  
 
-- **Freelance Projects (x3)**  
-  Delivered **end-to-end solutions** for clients, building scalable web apps using the **MERN stack** and **SQL**.  
-  - One project deployed on a **custom domain** → [QuwwaHealth](https://quwwahealth.com)  
-  - Focused on **responsive UI** with **TailwindCSS** + **shadcn/ui**  
-  - Implemented **secure authentication**, **dynamic dashboards**, and smooth **deployments (Vercel / Render)**  
+## 💼 Experience
 
+* **Freelance Projects (x3)**
+  Delivered **end-to-end solutions** for clients using **MERN stack** and **SQL**.
+
+  * [QuwwaHealth](https://quwwahealth.com) — Healthcare platform with custom dashboard and secure authentication.
+  * [Alpro Physio Clinic](https://www.alprophysioclinic.com/) — Professional physiotherapy website with responsive design and booking features.
+  * TechStudents — Ongoing large-scale training and mentorship platform built with React, Express, Microservices, MySQL, Docker, and Redis.
+ 
 - **Ongoing Internship Project**  
   Currently working with a startup team on a **production-grade web platform**.  
   - Tech: **React, Django + PostgreSQL, Docker, Redis**  
