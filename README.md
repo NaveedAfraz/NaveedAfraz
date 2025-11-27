@@ -5,12 +5,15 @@
 </p>
 
 ---
-
 ## 👋 Hey there, I'm Naveed Afraz
 
 > *"Some people lift weights, others lift bugs from code — I lift both."* 🐞
 
-I'm currently in my **3rd year of BCA** and an **experienced full-stack web developer** (MERN | Next.js) — and an **aspiring AI/ML guy** who gets more excited about a green terminal than green tea. I specialize in building **scalable MERN stack apps**, and I’m currently diving deep into ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square\&logo=next.js) and ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square\&logo=django).
+I'm currently in my **3rd year of BCA** and an **experienced full-stack web developer (MERN | Next.js)** — and an **aspiring AI/ML guy** who gets more excited about a green terminal than green tea. I specialize in building **scalable MERN stack apps**, and I’m currently diving deep into **Next.js & Machine Learning fundamentals**. ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square\&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square\&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn)
+
+With **8+ months of real-world development experience** through **freelance projects and an internship**, I've worked on production-grade platforms and end-to-end application development.
 
 Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 📁 [**Portfolio Website**](https://portfolio-six-psi-26.vercel.app/)
