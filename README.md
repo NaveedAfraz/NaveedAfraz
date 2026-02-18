@@ -1,7 +1,7 @@
 <!-- Funny Typing Banner -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=800&lines=I'm+just+a+guy+who+codes...+like+seriously!;Eat();+Sleep();+Code();+Repeat();Full-stack+MERN+%7C+%7C+Next.js+dev+on+mission" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=900&lines=I'm+just+a+guy+who+codes...+like+seriously!;Eat();+Sleep();+Code();+Repeat();Full-stack+MERN+%7C+PERN+%7C+Next.js+dev+on+a+mission" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,21 +20,53 @@ Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
 
 ---
 
-## 💼 Experience
+## 💼 Experience (MERN & PERN)
 
-* **Freelance Projects (x3)**
-  Delivered **end-to-end solutions** for clients using **MERN stack** and **SQL**.
+### 💰 Paid Internship (1)
 
-  * [QuwwaHealth](https://quwwahealth.com) — Healthcare platform with custom dashboard and secure authentication.
-  * [Alpro Physio Clinic](https://www.alprophysioclinic.com/) — Professional physiotherapy website with responsive design and booking features.
-  * [TechStudents](https://tech-students-beta.vercel.app/) — Ongoing large-scale training and mentorship platform built with React, Express, Microservices, MySQL, Docker, and Redis.
+**Full‑Stack Developer Intern (Paid)**
+Working on a production‑grade startup platform used by real users.
 
-- **Ongoing Internship Project**
-  Currently working with a startup team on a **production-grade web platform**.
+* **Stack:** PERN (PostgreSQL, Express, React, Node.js)
+* **Also used:** Django (API services), Docker, Redis
+* **Work:** Frontend ownership, REST API integration, DB modeling, performance fixes
+* **Focus:** Scalability, clean UI/UX, real‑time features
 
-  * Tech: **React, Django + PostgreSQL, Docker, Redis**
-  * Responsibilities: **frontend development, API integration, and database modeling**
-  * Emphasis on **scalability, real-time features, and clean UI/UX**
+---
+
+### 🧑‍💻 Freelance Work (9+ Projects)
+
+Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including **2 mobile apps**.
+
+**Web Platforms:**
+
+* **Auramiingo** – [https://auramiingo.com](https://auramiingo.com)
+  MERN platform with authentication, dashboards, and scalable backend
+
+* **MSEORG** – [https://mseorg.com](https://mseorg.com)
+  Ecom website with optimized UI and performance
+
+* **CareKov** – [https://carekov.com](https://carekov.com)
+  Healthcare platform built using PERN stack
+
+* **QuwwaHealth** – [https://quwwahealth.com](https://quwwahealth.com)
+  Healthcare platform with secure auth & custom dashboards (MERN)
+
+* **Alpro Physio Clinic** – [https://www.alprophysioclinic.com](https://www.alprophysioclinic.com)
+  Responsive physiotherapy website with booking features
+
+* **TechStudents** – [https://tech-students-beta.vercel.app/](https://tech-students-beta.vercel.app/)
+  Large‑scale training & mentorship platform
+  *(React, Express, Microservices, MySQL, Docker, Redis)*
+
+**Mobile Apps (2):**
+
+* Built using **Expo + React Native**
+* Real‑world flows, authentication, API integration, production builds
+
+---
+
+> **Overall:** 1 paid internship + **9+ freelance projects** across **MERN & PERN**, deployed, maintained, and used by real clients.
 
 ---
 
