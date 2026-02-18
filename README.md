@@ -41,7 +41,7 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 **Web Platforms:**
 
 * **Auramiingo** – [https://auramiingo.com](https://auramiingo.com)
-  MERN platform with authentication, dashboards, and scalable backend
+  PERN platform with authentication, dashboards, and scalable backend
 
 * **MSEORG** – [https://mseorg.com](https://mseorg.com)
   Ecom website with optimized UI and performance
