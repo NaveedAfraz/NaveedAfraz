@@ -66,7 +66,7 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 * Built using **Expo + React Native**
 * Real‑world flows, authentication, API integration, production builds
 
-**Final Year Projects for Students (10+ Paid):**
+**Final Year Projects for Students (10+ Final Year Projects):**
 
 * Built and delivered **10+ complete final year projects** commissioned by other students
 * Covered domains: EdTech, E-commerce, Healthcare, Productivity & SaaS tools
