@@ -26,7 +26,7 @@ Here's my portfolio if you want to stalk my code-life (I don't mind 😉):
 
 ### 💰 Paid Internship (1)
 
-**Full‑Stack Developer Intern (Paid)**
+**Full‑Stack Developer Intern**
 Working on a production‑grade startup platform used by real users.
 
 * **Stack:** PERN (PostgreSQL, Express, React, Node.js)
@@ -36,7 +36,7 @@ Working on a production‑grade startup platform used by real users.
 
 ---
 
-### 🧑‍💻 Freelance Work (9+ Client Projects + 10+ Student Final Year Projects)
+### 🧑‍💻 Freelance Work (9+ Client Projects and 10+ Student Final Year Projects)
 
 Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including **2 mobile apps**.
 
