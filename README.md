@@ -9,13 +9,15 @@
 
 > *"Some people lift weights, others lift bugs from code — I lift both."* 🐞
 
-3rd-year BCA student and pragmatic full-stack developer (MERN | PERN | Next.js) who also builds mobile apps with React Native + Expo. I’ve shipped multiple freelance projects and completed a paid internship working on production systems (auth, realtime, DB modeling). Currently sharpening DSA for placements and shipping one high-impact applied-AI feature (embeddings / semantic search / recommender).
+3rd-year BCA student and pragmatic full-stack developer (MERN | PERN | Next.js) who also builds mobile apps with React Native + Expo. I've shipped multiple freelance projects and completed a paid internship working on production systems (auth, realtime, DB modeling). Currently sharpening DSA for placements and shipping one high-impact applied-AI feature (embeddings / semantic search / recommender).
 
  • naveedafraz2003@gmail.com
  
-With **9+ months of real-world development experience** through **freelance projects and an internships**, I've worked on production-grade platforms and end-to-end application development.
+With **1 year of real-world development experience** through **freelance projects and an internships**, I've worked on production-grade platforms and end-to-end application development.
 
-Here’s my portfolio if you want to stalk my code-life (I don’t mind 😉):
+🎓 Also completed **10+ final year projects for other students** — paid freelance builds across full-stack web, mobile, and AI/ML domains.
+
+Here's my portfolio if you want to stalk my code-life (I don't mind 😉):
 📁 [**Portfolio Website**](https://portfolio-six-psi-26.vercel.app/)
 
 ---
@@ -34,7 +36,7 @@ Working on a production‑grade startup platform used by real users.
 
 ---
 
-### 🧑‍💻 Freelance Work (9+ Projects)
+### 🧑‍💻 Freelance Work (9+ Client Projects + 10+ Student Final Year Projects)
 
 Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including **2 mobile apps**.
 
@@ -64,16 +66,23 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 * Built using **Expo + React Native**
 * Real‑world flows, authentication, API integration, production builds
 
+**Final Year Projects for Students (10+ Paid):**
+
+* Built and delivered **10+ complete final year projects** commissioned by other students
+* Covered domains: EdTech, E-commerce, Healthcare, Productivity & SaaS tools
+* Stacks used: MERN · PERN · Next.js · React Native · Python/ML
+* Each project delivered end-to-end: design → development → deployment
+
 ---
 
-> **Overall:** 1 paid internship + **9+ freelance projects** across **MERN & PERN**, deployed, maintained, and used by real clients.
+> **Overall:** 1 paid internship + **9+ client freelance projects** + **10+ paid student final year projects** — all deployed, maintained, and used by real people.
 
 ---
 
 ## 🧠 About Me
 
 * 💻 Full-Stack Developer (MERN | Django | SQL)
-* 🔄 Real-time: I’ve integrated **Socket.IO** into projects for real-time communication
+* 🔄 Real-time: I've integrated **Socket.IO** into projects for real-time communication
 * 🧮 State Management: Powered by **Redux**
 * 🔍 Data fetching? I trust **TanStack Query** like coffee before exams
 * 🎯 Currently learning: **Next.js**, **Django**, and **AI/ML tools (NumPy, Pandas, Scikit-learn)**
@@ -153,7 +162,7 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 
 ---
  
-## 🚀 Projects
+## 🚀 Personal Projects
 
 | Project | Description | Live Link |
 |--------|-------------|-----------|
@@ -175,6 +184,9 @@ _Over 1000+ contributions in the last year and counting..._
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=naveedafraz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=naveedafraz&theme=tokyonight" alt="GitHub Streak Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedafraz&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
 </p>
 
 ---
