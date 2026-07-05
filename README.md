@@ -182,11 +182,11 @@ _Over 1000+ contributions in the last year and counting..._
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveedafraz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=naveedafraz&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=naveedafraz&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=naveedafraz&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveedafraz&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
+   <img src="https://streak-stats.demolab.com?user=naveedafraz&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
 ---
