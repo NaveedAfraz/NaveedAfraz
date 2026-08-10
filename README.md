@@ -57,7 +57,7 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 * **Alpro Physio Clinic** – [https://www.alprophysioclinic.com](https://www.alprophysioclinic.com)
   Responsive physiotherapy website with booking features
 
-* **TechStudents** – [https://tech-students-beta.vercel.app/](https://tech-students-beta.vercel.app/)
+* **TechStudents** – [https://techstudents.in/](https://techstudents.in/)
   Large‑scale training & mentorship platform
   *(React, Express, Microservices, MySQL, Docker, Redis)*
 
