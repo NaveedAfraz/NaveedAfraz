@@ -4,23 +4,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F700&center=true&vCenter=true&width=900&lines=I'm+just+a+guy+who+codes...+like+seriously!;Eat();+Sleep();+Code();+Repeat();Full-stack+MERN+%7C+PERN+%7C+Next.js+dev+on+a+mission" alt="Typing SVG" />
 </p>
 
----
 ## 👋 Hey there, I'm Naveed Afraz
 
-> *"Some people lift weights, others lift bugs from code — I lift both."* 🐞
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=naveedafraz&label=Profile%20Views&color=brightgreen&style=flat-square" alt="naveedafraz" />
+</p>
 
-3rd-year BCA student and pragmatic full-stack developer (MERN | PERN | Next.js) who also builds mobile apps with React Native + Expo. I've shipped multiple freelance projects and completed a paid internship working on production systems (auth, realtime, DB modeling). Currently sharpening DSA for placements and shipping one high-impact applied-AI feature (embeddings / semantic search / recommender).
+> *"Some people lift weights, others lift bugs from code. I lift both."* 🐞
+
+BCA 2026 graduate and full-stack developer (MERN | PERN | Next.js) who also ships mobile apps with React Native + Expo. My main project is **TechStudents**, a large-scale training & mentorship platform, alongside a freelance practice of **9+ client projects** and **10+ paid final-year builds** for other students, plus a paid internship shipping production systems (auth, realtime, DB modeling). Actively exploring full-stack/SDE roles.
 
  • naveedafraz2003@gmail.com
  
 With **1 year of real-world development experience** through **freelance projects and an internships**, I've worked on production-grade platforms and end-to-end application development.
 
-🎓 Also completed **10+ final year projects for other students** — paid freelance builds across full-stack web, mobile, and AI/ML domains.
+🎓 Also completed **10+ final year projects for other students**. Paid freelance builds across full-stack web, mobile, and AI/ML domains.
 
 Here's my portfolio if you want to stalk my code-life (I don't mind 😉):
 📁 [**Portfolio Website**](https://portfolio-six-psi-26.vercel.app/)
 
----
 
 ## 💼 Experience (MERN & PERN)
 
@@ -34,13 +36,16 @@ Working on a production‑grade startup platform used by real users.
 * **Work:** Frontend ownership, REST API integration, DB modeling, performance fixes
 * **Focus:** Scalability, clean UI/UX, real‑time features
 
----
 
 ### 🧑‍💻 Freelance Work (9+ Client Projects and 10+ Student Final Year Projects)
 
-Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including **2 mobile apps**.
+Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including **2 mobile apps** and a commercial CEP plugin.
 
 **Web Platforms:**
+
+* 🌟 **TechStudents** (Main Project) – [https://techstudents.in/](https://techstudents.in/)
+  Large‑scale training & mentorship platform
+  *(React, Express, Microservices, MySQL, Docker, Redis)*
 
 * **Auramiingo** – [https://auramiingo.com](https://auramiingo.com)
   PERN platform with authentication, dashboards, and scalable backend
@@ -57,9 +62,11 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 * **Alpro Physio Clinic** – [https://www.alprophysioclinic.com](https://www.alprophysioclinic.com)
   Responsive physiotherapy website with booking features
 
-* **TechStudents** – [https://techstudents.in/](https://techstudents.in/)
-  Large‑scale training & mentorship platform
-  *(React, Express, Microservices, MySQL, Docker, Redis)*
+**Plugins:**
+
+* **Klipp** – [https://klipp.com](https://klipp.com)
+  CEP After Effects plugin for South Asian video creators. Local AI captioning & translation pipeline (whisper.cpp, IndicTrans2), RSA-2048 licensing, and encrypted model distribution
+  *(C++, React, Vite, Tailwind, Zustand)*
 
 **Mobile Apps (2):**
 
@@ -73,11 +80,9 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 * Stacks used: MERN · PERN · Next.js · React Native · Python/ML
 * Each project delivered end-to-end: design → development → deployment
 
----
 
-> **Overall:** 1 paid internship + **9+ client freelance projects** + **10+ paid student final year projects** — all deployed, maintained, and used by real people.
+> **Overall:** 1 paid internship + **9+ client freelance projects** + **10+ paid student final year projects**. All deployed, maintained, and used by real people.
 
----
 
 ## 🧠 About Me
 
@@ -88,14 +93,6 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 * 🎯 Currently learning: **Next.js**, **Django**, and **AI/ML tools (NumPy, Pandas, Scikit-learn)**
 * 🤖 Exploring **Machine Learning fundamentals**, embeddings & vector search
 
----
-📈 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=naveedafraz&label=Profile%20Views&color=brightgreen&style=flat-square" alt="naveedafraz" />
-</p>
-
----
 ### 🛠️ Tech Stack
 
 ### 🖥️ Frontend
@@ -160,7 +157,6 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square\&logo=render\&logoColor=000)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=fff)
 
----
  
 ## 🚀 Personal Projects
 
@@ -171,14 +167,12 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 | **E-Commerce Site** | Full-featured shopping platform with auth, product & cart mgmt | [E-Commerce](https://e-commerce-psi-inky-93.vercel.app/auth/login/) |
 | **Blogging Web App** | Share your thoughts with full CRUD post support | [Blog](https://blog-theta-three-48.vercel.app/home) |
 
----
 ### 🔥 GitHub Contributions
 
 ![Naveed's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaveedAfraz&theme=github-dark&hide_border=true)
 
 _Over 1000+ contributions in the last year and counting..._
 
----
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -189,7 +183,6 @@ _Over 1000+ contributions in the last year and counting..._
    <img src="https://streak-stats.demolab.com?user=naveedafraz&theme=tokyonight" alt="GitHub Streak Stats" />
 </p>
 
----
 
 ## 📬 Get in Touch
 
@@ -197,7 +190,6 @@ _Over 1000+ contributions in the last year and counting..._
 - LinkedIn →  https://www.linkedin.com/in/naveed-afraz-977a46310/
 - Email → naveedafraz2003@gmail.com
 
----
 
 ## 🧠 Fun Dev Fact
 
