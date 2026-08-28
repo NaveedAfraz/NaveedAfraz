@@ -64,7 +64,7 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 
 **Plugins:**
 
-* **Klipp** – [https://klipp.com](https://klipp.com)
+* **Klipp** – [https://klipp.in](https://klipp.in)
   CEP After Effects plugin for South Asian video creators. Local AI captioning & translation pipeline (whisper.cpp, IndicTrans2), RSA-2048 licensing, and encrypted model distribution
   *(C++, React, Vite, Tailwind, Zustand)*
 
