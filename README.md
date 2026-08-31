@@ -81,7 +81,7 @@ Delivered **end‑to‑end solutions** across **MERN & PERN stacks**, including 
 * Each project delivered end-to-end: design → development → deployment
 
 
-> **Overall:** 1 paid internship + **9+ client freelance projects** + **10+ paid student final year projects**. All deployed, maintained, and used by real people.
+> **Overall:** 1 paid internship + **10+ client freelance projects** + **10+ paid student final year projects**. All deployed, maintained, and used by real people.
 
 
 ## 🧠 About Me
